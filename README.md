@@ -36,7 +36,7 @@ Fat content split to monitor health-focused product demand.
 Interactivity via slicers enables granular data exploration.
 ## Conclusion
 This dashboard empowers stakeholders at Blinkit with actionable insights into sales, item performance, outlet strategies, and customer satisfaction. It can be extended to include predictive analytics and operational KPIs such as delivery time, returns, or stockout frequency.
-## Dashboard
+## Interactive Dashboard
 - <a  href= "https://github.com/Charithasri-Vanam/Data-Analysis-Dashboard/blob/main/blinkit-powerbi_dashboard.pbix"> view dashboard </a>
 ## KPI-Based Questions & Business Insights
 1. Total Sales – $756.89K
