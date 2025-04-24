@@ -2,6 +2,8 @@
 This Power BI dashboard provides a comprehensive analysis of Blinkit's retail and outlet performance. It visualizes sales trends, product categories, outlet characteristics, and user ratings, supporting data-driven decision-making for business optimization.
 
 The dashboard is interactive and filterable, with dynamic slicers to refine results by outlet location, size, and item type.
+## Data Sheet
+  - <a href="https://github.com/Charithasri-Vanam/Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> dataset </a>
 ## KPI | Value | Description
 Total Sales | $756.89K | Total revenue from all outlets
 Average Sales | $141 | Average revenue per item
