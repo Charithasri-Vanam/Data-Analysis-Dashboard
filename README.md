@@ -37,7 +37,7 @@ Interactivity via slicers enables granular data exploration.
 ## Conclusion
 This dashboard empowers stakeholders at Blinkit with actionable insights into sales, item performance, outlet strategies, and customer satisfaction. It can be extended to include predictive analytics and operational KPIs such as delivery time, returns, or stockout frequency.
 ## Dashboard
-
+- <a  href= "https://github.com/Charithasri-Vanam/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-24%20101809.png"> view dashboard </a>
 ## KPI-Based Questions & Business Insights
 1. Total Sales – $756.89K
   "What is the total revenue generated across all outlets?"
